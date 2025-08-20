@@ -1,0 +1,26 @@
+STEP 1:
+Download docker: https://docs.docker.com/desktop/setup/install/windows-install
+STEP 2:
+Tải init folder
+
+STEP 3:
+docker compose up -d
+
+STEP 4: (pull model)
+docker exec -it [container_id] ollama pull llama3.2:3b 
+
+STEP 5: đằng kí tài khoản nếu chưa có
+
+STEP 6: Create workflow
+
+
+//note 
+host.docker.internal cho localhost  
+
+
+
+=================ONLINE=====================
+https://make.com
+https://aistudio.google.com/apikey
+
+
